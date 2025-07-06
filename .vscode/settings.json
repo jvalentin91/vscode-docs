@@ -30,4 +30,7 @@
     "doc-assistant.milestone": "May 2025",
 
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "remoteHub.richNavigation.indexMode": {
+        "branch": "tipPlusLatest"
+    },
 }
