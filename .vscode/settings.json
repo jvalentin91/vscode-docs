@@ -29,5 +29,5 @@
 
     "doc-assistant.milestone": "May 2025",
 
-    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
 }
